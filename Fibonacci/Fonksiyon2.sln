@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fonksiyon2", "Fonksiyon2\Fonksiyon2.csproj", "{02C0153F-9027-4A55-AF4D-9018C9FD03CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C0153F-9027-4A55-AF4D-9018C9FD03CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C0153F-9027-4A55-AF4D-9018C9FD03CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C0153F-9027-4A55-AF4D-9018C9FD03CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C0153F-9027-4A55-AF4D-9018C9FD03CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16E7FF9B-36F9-44FB-AB71-ADA8FB03C08D}
+	EndGlobalSection
+EndGlobal
